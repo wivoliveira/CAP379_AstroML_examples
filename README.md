@@ -1,8 +1,8 @@
 ## Tópicos em Ciências Espaciais (CAP-379)
 
-Camila Pereira Sales
-Leoni Augusto Romain da Silva
-Willian Vieira de Oliveira
+Camila Pereira Sales <br>
+Leoni Augusto Romain da Silva <br>
+Willian Vieira de Oliveira<br>
 
 Instituto Nacional de Pesquisas Espaciais - INPE
 
